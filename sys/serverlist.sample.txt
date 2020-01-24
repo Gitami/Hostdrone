@@ -1,0 +1,6 @@
+linux::hostdrone.example.com/hostdrone/demo/
+windows::example.net/
+unknown::server1.example.org/somefolder/
+windows::server2.example.pork/somefolder/
+linux::server12.example.mork/
+linux::server2232.example.spork/
